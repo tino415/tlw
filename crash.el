@@ -8,7 +8,7 @@
 
 (add-hook 'tlw-test-mode-hook 'eglot-ensure)
 
-(find-file "./root.html.heex")
+(find-file "./src/index.html")
 
 (tlw-test-mode)
 

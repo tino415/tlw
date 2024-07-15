@@ -10,4 +10,4 @@ Run `make quiet`, enter `npx tailwindcss-language-server` as language server. Th
 
 # Crash
 
-Run `make crash`, then switch to root.html.heex. You should end up in debugger.
+Run `make crash`, then switch to index.html. You should end up in debugger.
