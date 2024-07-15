@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tailwindcss/language-server": "^0.0.21"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
